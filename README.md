@@ -8,7 +8,7 @@ Create a file (for ex. TODO.org). Open the file and run `org-agenda-file-to-fron
 |-------------|--------------------------|
 | `C-c a a`   |  Open org-mode agenda
 | `C-c a t`   |  List all TODOs
-| `C-c a g`   |  
+| `C-c a g`   |  GTD (Get things done)-view
 
 
 
